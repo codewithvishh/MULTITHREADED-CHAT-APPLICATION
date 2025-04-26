@@ -16,3 +16,7 @@ DESCRIPTION: IN THIS TASK, THE GOAL IS TO BUILD A REAL-TIME CHAT APPLICATION WHE
              5) BUILD A REAL-TIME CHAT INTERFACE FOR CLIENTS TO SEND AND RECEIVE MESSAGES.
              FOR BUILDING THIS APPLICATION I USED ECLIPSE IDE.
 OUTPUT:
+             ![Image](https://github.com/user-attachments/assets/3ebe294d-67fb-47f5-a45d-4e2ebdfb3990)
+             ![Image](https://github.com/user-attachments/assets/78f4c09e-c3eb-4305-9708-c204eb72988f)
+             ![Image](https://github.com/user-attachments/assets/27aecc42-9c52-49cc-a310-acddb4dd760a)
+             ![Image](https://github.com/user-attachments/assets/65ef4722-e2cf-4a76-af08-16c887bd2056)
